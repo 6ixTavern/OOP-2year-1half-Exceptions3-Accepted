@@ -1,0 +1,7 @@
+﻿6
+1 Arkana VasyaPupkin 1 true 10
+2 WallCheck DK22 2 True True
+3 NoStuns FYP 1 15 65
+4 Stealth bankeru 4 true 15,0 3,0 45
+5 abobus 2 35
+2 WallCheat abobus 10 False True
